@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>down.png</file>
+        <file>player.png</file>
+        <file>up.png</file>
+        <file>day.png</file>
+        <file>gameover.png</file>
+    </qresource>
+</RCC>
